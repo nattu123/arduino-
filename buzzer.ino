@@ -1,4 +1,4 @@
-int i,j,k;//nattu vanam
+int i,j,k;
 void setup()
 {Serial.begin(115200);
 pinMode(3,INPUT_PULLUP);
